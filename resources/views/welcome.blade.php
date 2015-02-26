@@ -6,7 +6,7 @@
 		<style>
 			body {
 				background: #F8CA00;
-				background: url('/img/rope.jpg');
+				background: url('/img/desk.jpg');
 				background-size: cover;
 				margin: 0;
 				padding: 0;
