@@ -10,7 +10,7 @@
 				padding: 0;
 				width: 100%;
 				height: 100%;
-				color:  #eee;
+				color:  #ffffff;
 				display: table;
 				font-weight: 100;
 				font-family: 'Lato';
@@ -40,8 +40,8 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<h1 class="title">Tattvika</h1>
-				<h2 class="quote"><i class="fa fa-home fa-fw"> </i>Development who make your life simple as possible</h2>
+				<h1 class="title">{{Config::get('app.business.title')}}</h1>
+				<h2 class="quote">{{Config::get('app.business.slogan')}}</h2>
 			</div>
 		</div>
 		@include('partials/analytics')

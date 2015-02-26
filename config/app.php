@@ -1,7 +1,6 @@
 <?php
 
 return [
-
 	/*
 	|--------------------------------------------------------------------------
 	| Application Debug Mode
@@ -193,6 +192,12 @@ return [
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
 
+	],
+
+	'business' => [
+		'company' => 'Tattvika SIA',
+		'title' => 'Tattvika',
+		'slogan' => 'Solutions which make your life easyer',
 	],
 
 ];
