@@ -14,6 +14,7 @@
 				height: 100%;
 				color:  #ffffff;
 				display: table;
+				text-shadow: 0 1px 3px rgba(0,0,0,.5);
 				font-weight: 100;
 				font-family: 'Lato';
 
