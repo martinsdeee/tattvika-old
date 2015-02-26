@@ -6,6 +6,8 @@
 		<style>
 			body {
 				background: #F8CA00;
+				background: url('/img/rope.jpg');
+				background-size: cover;
 				margin: 0;
 				padding: 0;
 				width: 100%;
@@ -14,15 +16,19 @@
 				display: table;
 				font-weight: 100;
 				font-family: 'Lato';
+
 			}
 
 			.container {
+				background: rgba(0, 0, 0, 0.54);
 				text-align: center;
 				display: table-cell;
 				vertical-align: middle;
 			}
 
 			.content {
+				border-radius: 7px;
+				padding: 27px;
 				text-align: center;
 				display: inline-block;
 			}
