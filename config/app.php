@@ -197,7 +197,7 @@ return [
 	'business' => [
 		'company' => 'Tattvika SIA',
 		'title' => 'Tattvika',
-		'slogan' => 'Solutions which make your life easyer',
+		'slogan' => 'Solutions which make your life easier',
 	],
 
 ];
